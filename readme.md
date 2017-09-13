@@ -12,4 +12,8 @@ git clone https://github.com/Cmuvr/silukov.git
 	<ul>Ветка_3</ul>
 </ol>
 
+<<<<<<< HEAD
 master
+=======
+vasia
+>>>>>>> Vasia
